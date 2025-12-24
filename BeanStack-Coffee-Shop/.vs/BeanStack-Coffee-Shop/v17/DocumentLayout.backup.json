@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|c:\\users\\thineth\\onedrive\\desktop\\c# web application\\beanstack-coffee-shop-web\\beanstack-coffee-shop\\beanstack-coffee-shop\\views\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|solutionrelative:beanstack-coffee-shop\\views\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|c:\\users\\thineth\\onedrive\\desktop\\c# web application\\beanstack-coffee-shop-web\\beanstack-coffee-shop\\beanstack-coffee-shop\\views\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|solutionrelative:beanstack-coffee-shop\\views\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|c:\\users\\thineth\\onedrive\\desktop\\c# web application\\beanstack-coffee-shop-web\\beanstack-coffee-shop\\beanstack-coffee-shop\\views\\dashbord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|solutionrelative:beanstack-coffee-shop\\views\\dashbord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\beanstack-coffee-shop\\dal\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|solutionrelative:beanstack-coffee-shop\\dal\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\beanstack-coffee-shop\\dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|solutionrelative:beanstack-coffee-shop\\dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\beanstack-coffee-shop\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|solutionrelative:beanstack-coffee-shop\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\beanstack-coffee-shop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C64EE65-CDB7-4127-94AC-95A6B81CA1E8}|BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop.csproj|solutionrelative:beanstack-coffee-shop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "BeanStack-Coffee-Shop\\Views\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\AboutUs.aspx",
+              "RelativeToolTip": "BeanStack-Coffee-Shop\\Views\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T11:01:55.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashbord.aspx",
+              "DocumentMoniker": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\Dashbord.aspx",
+              "RelativeDocumentMoniker": "BeanStack-Coffee-Shop\\Views\\Dashbord.aspx",
+              "ToolTip": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\Dashbord.aspx",
+              "RelativeToolTip": "BeanStack-Coffee-Shop\\Views\\Dashbord.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T10:43:16.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.aspx",
+              "DocumentMoniker": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\Shop.aspx",
+              "RelativeDocumentMoniker": "BeanStack-Coffee-Shop\\Views\\Shop.aspx",
+              "ToolTip": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\Shop.aspx",
+              "RelativeToolTip": "BeanStack-Coffee-Shop\\Views\\Shop.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T07:14:26.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\dal\\UserRepository .cs",
+              "RelativeDocumentMoniker": "BeanStack-Coffee-Shop\\dal\\UserRepository .cs",
+              "ToolTip": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\dal\\UserRepository .cs",
+              "RelativeToolTip": "BeanStack-Coffee-Shop\\dal\\UserRepository .cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:09:36.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\dal\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BeanStack-Coffee-Shop\\dal\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\dal\\IUserRepository.cs",
+              "RelativeToolTip": "BeanStack-Coffee-Shop\\dal\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:09:31.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BeanStack-Coffee-Shop\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Models\\User.cs",
+              "RelativeToolTip": "BeanStack-Coffee-Shop\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:06:21.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "BeanStack-Coffee-Shop\\Views\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Thineth\\OneDrive\\Desktop\\C# Web Application\\BeanStack-Coffee-Shop-Web\\BeanStack-Coffee-Shop\\BeanStack-Coffee-Shop\\Views\\Register.aspx.cs",
+              "RelativeToolTip": "BeanStack-Coffee-Shop\\Views\\Register.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-05-14T11:13:20.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
